@@ -1,0 +1,13 @@
+pandas>=2.0
+numpy>=1.24
+transformers>=4.40,<5
+torch>=2.0
+scipy>=1.11
+matplotlib>=3.7
+seaborn>=0.13
+statsmodels>=0.14
+tqdm>=4.66
+jupyter>=1.0
+ipywidgets>=8.0
+tensorflow>=2.14
+scikit-learn>=1.3

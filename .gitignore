@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# HuggingFace cache (downloaded model lives here after prep.ipynb runs)
+cardiffnlp/
+
+# Generated output
+model_1.png
